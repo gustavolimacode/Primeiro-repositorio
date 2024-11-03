@@ -1,2 +1,3 @@
-# Primeiro repositorio
- Aprendendo a usar o git e github
+# Primeiro repositório
+
+ Aprendendo a usar o git e github.
